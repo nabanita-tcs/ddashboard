@@ -1,1 +1,0 @@
-"use strict";angular.module("sbAdminApp").directive("stats",function(){return{templateUrl:"scripts/directives/dashboard/stats/stats.html",restrict:"E",replace:!0,scope:{model:"=",comment1:"@",number1:"@",comment2:"@",number2:"@",name:"@",colour:"@",details:"@",type:"@","goto":"@",title:"@"}}});
